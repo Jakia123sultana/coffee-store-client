@@ -6,12 +6,11 @@ A modern, responsive coffee store web application built with **React** and **Vit
 
 ## 🚀 Tech Stack
 
-- **React** – Component-based UI
-- **Vite** – Lightning-fast development and build tool
-- **JavaScript (ES6+)** – Clean and modern syntax
-- **Firebase** – Hosting, optional backend services
-- **ESLint** – Code quality and linting
-- **HTML/CSS** – Basic layout and styling
+- **React** – Component-based UI  
+- **Vite** – Lightning-fast development and build tool  
+- **JavaScript (ES6+)** – Clean and modern syntax  
+- **Firebase** – Hosting, optional backend services  
+- **HTML/CSS** – Basic layout and styling  
 
 ---
 
