@@ -4,6 +4,12 @@ A modern, responsive coffee store web application built with **React** and **Vit
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Visit CoffeeNest](https://coffeenestjakia.surge.sh)
+
+---
+
 ## 🚀 Tech Stack
 
 - **React** – Component-based UI  
